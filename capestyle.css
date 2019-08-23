@@ -1,0 +1,44 @@
+p
+	{font-family: "Georgia", "Times New Roman", Times, serif}
+
+.maintext
+	{font-family: "Georgia", "Times New Roman", Times, serif}
+
+
+h1
+	{font-family: Arial, Helvetica, sans-serif;
+	 font-weight: bold;
+	 color: 008080;
+	 font-size: 30px}
+
+
+span.toplinks {font-family: Arial, Helvetica, sans-serif;
+		  font-weight: bold;}
+
+
+h2.acthead
+	{font-family: Arial, Helvetica, sans-serif;
+	 color: 008080;
+	 font-weight: bold;}
+
+h2.head2
+	{font-family: Arial, Helvetica, sans-serif;
+	 color: 008080;
+	 font-weight: bold;}
+
+h2.head2box
+	{font-family: Arial, Helvetica, sans-serif;
+	 color: 008080;
+	 font-weight: bold;}
+
+h3.rest
+	{font-family: Arial, Helvetica, sans-serif;
+	 color: 008080;}
+
+.restaddr {font-family: Arial, Helvetica, sans-serif; font-weight: bold; color:000000; font-style: italic; font-size: 70%}
+
+.boilerplate
+	{text-align: center}
+
+
+
