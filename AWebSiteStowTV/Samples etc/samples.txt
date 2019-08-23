@@ -1,0 +1,4 @@
+Samples
+
+<p align="center"><a href="javascript:newWindow('http://www.stow-ma.gov/files/tvhdbk.pdf')"><b>Stow 
+                    TV Handbook</b></a> </p>
