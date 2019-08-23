@@ -1,0 +1,17 @@
+ <hr width="200">           
+                <font size="-1">[<a href="http://www.vantine.net"> Anne's Home Page</a> ] 
+                &nbsp; [Comments to <a href="mailto:vantine@tiac.net">Anne VanTine.</a> ] 
+                </font></span> </div>
+            <!-- End of Inner Table --> </td>
+  </tr>
+</table>
+
+
+<!-- End of Outer Table --> 
+    </td>
+  </tr>
+</table>
+
+
+</body>
+</html>
